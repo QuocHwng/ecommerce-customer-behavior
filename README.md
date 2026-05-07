@@ -1,4 +1,4 @@
-<img width="1380" height="771" alt="image" src="https://github.com/user-attachments/assets/e0a88a75-982f-4270-80e7-c7a06e8310a2" /># ecommerce-customer-behavior
+# ecommerce-customer-behavior
 Giới thiệu Project
 
 Dự án này xây dựng một dashboard Power BI nhằm phân tích tình hình kinh doanh và đánh giá hành vi người dùng của nền tảng Thương mại điện tử (E-commerce). Báo cáo được thiết kế theo chuẩn Data Analytics & Business Intelligence, chuyển đổi dữ liệu thô thành các chỉ số và insight có giá trị cho việc ra quyết định.
